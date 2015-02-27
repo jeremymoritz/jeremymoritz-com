@@ -1,0 +1,20 @@
+[
+	{
+		"name":"Barot Baellinghma",
+		"shortname":"Barot",
+		"reknown":"Royal academy",
+		"bio":"Here is a big bio on Barot"
+	},
+	{
+		"name":"Jonesy Baellinghma",
+		"shortname":"Jones",
+		"reknown":"Royal Jones academy",
+		"bio":"Here is a big bio on Jones"
+	},
+	{
+		"name":"Corey Baellinghma",
+		"shortname":"Corey",
+		"reknown":"Royal Corey academy",
+		"bio":"Here is a big bio on Corey"
+	}
+]

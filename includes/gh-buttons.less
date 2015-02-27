@@ -1,0 +1,192 @@
+
+/* ==============================================
+ * CSS3 GITHUB BUTTONS (Nicolas Gallagher)
+ * Licensed under Unlicense
+ * http://github.com/necolas/css3-github-buttons
+ * =========================================== */
+
+
+/* ==========================================================================
+   Base Button
+========================================================================== */
+
+@ghBlue: #3072b3;
+@ghBlueLighter: #599bdc;
+
+.ghGradientBase(@color1, @color2) {
+	background-color: @color2;
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(@color1), to(@color2));
+	background-image: -moz-linear-gradient(@color1, @color2);
+	background-image: -ms-linear-gradient(@color1, @color2);
+	background-image: -o-linear-gradient(@color1, @color2);
+	background-image: linear-gradient(@color1, @color2);
+}
+.ghGradient(@color1, @color2, @borderColor, @borderBottomColor) {
+	.ghGradientBase(@color1, @color2);
+	border-color: @borderColor;
+	border-bottom-color: @borderBottomColor;
+}
+
+.button {
+	.ghGradientBase(#f4f4f4, #ececec);
+
+	cursor: pointer;
+	position: relative;
+	overflow: visible;
+	display: inline-block;
+	padding: 0.5em 1em;
+	border: 1px solid #d4d4d4;
+	margin: 0;
+	text-decoration: none;
+	text-align: center;
+	text-shadow: 1px 1px 0 white;
+	font: 11px/normal sans-serif;
+	color: #333;
+	white-space: nowrap;
+	outline: none;
+	-moz-background-clip: padding; //	for Firefox 3.6
+	background-clip: padding-box;
+	border-radius: 0.2em;
+	// IE hacks
+	zoom: 1;
+	*display: inline;
+
+	&:hover, &:focus, &:active, &.active {
+		text-decoration: none;
+		text-shadow: -1px -1px 0 rgba(0,0,0,0.3);
+		color: white;
+	}
+	&:hover, &:focus {.ghGradient(@ghBlueLighter, @ghBlue, @ghBlueLighter, #2a65a0);}
+	&:active, &.active {.ghGradient(@ghBlue, @ghBlueLighter, #2a65a0, #3884cd);}
+	&::-moz-focus-inner {	//	overrides extra padding on button elements in Firefox
+		padding: 0;
+		border: 0;
+	}
+
+	/* ==========================================================================
+		Button icons
+	========================================================================== */
+
+	&.icon {
+		.addIcon(@mult) {
+			&:before {
+				content: "";
+				position: relative;
+				top: 1px;
+				float: left;
+				width: 12px;
+				height: 12px;
+				margin: 0 0.75em 0 -0.25em;
+				background: url('gh-icons.png') 0 99px no-repeat;
+				background-position: 0 (@mult * -12px);
+			}
+			&:hover:before, &:focus:before, &:active:before {background-position: -12px (@mult * -12px);}
+			&[disabled]:hover:before, &.disabled:hover:before, &.disable:hover:before {background-position: 0 (@mult * -12px);}	//	no effect on hover
+		}
+		&.add {.addIcon(24);}
+		&.approve {.addIcon(4);}
+		&.arrowdown {.addIcon(1);}
+		&.arrowleft {.addIcon(2);}
+		&.arrowright {.addIcon(3);} &.arrowright:before {float:right; margin: 0 -0.25em 0 0.5em;}
+		&.arrowup {.addIcon(0);}
+		&.calendar {.addIcon(7);}
+		&.chat {.addIcon(8);}
+		&.clock {.addIcon(9);}
+		&.comment {.addIcon(11);}
+		&.details {.addIcon(31);}
+		&.edit {.addIcon(22);}
+		&.favorite {.addIcon(29);}
+		&.folder {.addIcon(32);}
+		&.fork {.addIcon(12);}
+		&.heartbreak {.addIcon(33);}
+		&.home {.addIcon(14);}
+		&.key {.addIcon(15);}
+		&.like {.addIcon(13);}
+		&.lock {.addIcon(16);}
+		&.log {.addIcon(6);}
+		&.loop {.addIcon(18);}
+		&.mail {.addIcon(20);}
+		&.move {.addIcon(21);}
+		&.pin {.addIcon(23);}
+		&.reload {.addIcon(25);}
+		&.remove {.addIcon(5);}
+		&.rss {.addIcon(26);}
+		&.search {.addIcon(19);}
+		&.settings {.addIcon(10);}
+		&.tag {.addIcon(27);}
+		&.trash {.addIcon(28);}
+		&.unlock {.addIcon(17);}
+		&.user {.addIcon(30);}
+	}
+
+	/* ==========================================================================
+		Button extensions
+	========================================================================== */
+
+	&.primary {font-weight: bold;}	//	Primary button
+	&.danger {	//	Danger button
+		color: #900;
+
+		&:hover, &:focus, &:active, &.active {color: white;}
+		&:hover, &:focus {.ghGradient(#b33630, #dc5f59, #b53f3a, #a0302a);}
+		&:active, &.active {.ghGradient(#dc5f59, #b33630, #a0302a, #bf4843);}
+	}
+	&.pill {border-radius: 50em;}	//	Pill button
+	&.disable, &.disabled, &[disabled] {	//	Disabled button
+		opacity: 0.5;
+
+		&:hover, &:focus {	//	reverse hover effects
+			.ghGradientBase(#f4f4f4, #ececec);
+
+			text-shadow: 1px 1px 0 white;
+			color: #333;
+			border-color: #ddd;
+		}
+	}
+	&.big {	//	Big button
+		font-size: 14px;
+
+		&.icon:before {top: 0;}
+	}
+}
+
+/* ==========================================================================
+	Button groups
+========================================================================== */
+
+.button-group {	//	Standard group
+	display: inline-block;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	/* IE hacks */
+	zoom: 1;
+	*display: inline;
+
+	li {
+		float: left;
+		padding: 0;
+		margin: 0;
+	}
+	.button {
+		float: left;
+		margin-left: -1px;
+	}
+	> .button:not(:first-child):not(:last-child), li:not(:first-child):not(:last-child) .button {border-radius: 0;}
+	> .button:first-child, li:first-child .button {margin-left: 0;}
+	> .button:first-child, > .button:last-child, li:last-child > .button, li:first-child > .button  {
+		border-top-left-radius: 0;
+		border-bottom-left-radius: 0;
+	}
+	&.minor-group .button {	//	Minor Group
+		&:hover, &:focus {background-color: @ghBlueLighter;}
+		&:active, &.active {background-color: @ghBlue;}
+		&.icon:before {opacity: 0.8;}
+	}
+}
+.button + .button, .button + .button-group, .button-group + .button, .button-group + .button-group {margin-left: 15px;}
+.button-container .button, .button-container .button-group {vertical-align: top;}	//	Button container (mixing buttons and groups, e.g., nav bar)
+
+/* ==========================================================================
+	END GIT-HUB STYLE BUTTONS
+========================================================================== */

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<meta charset='utf-8'>
+		<title>JS Test 2</title>
+	</head>
+	<body>
+		<p><a href='javascript:orderList("orderMe")'>Order this list!</a></p>
+		<ul id='orderMe'>
+			<li>Mickey Mouse</li>
+			<li>Donald Duck</li>
+			<li>Goofy</li>
+			<li>Minnie Mouse</li>
+			<li>Daisy Duck</li>
+			<li>Pluto</li>
+		</ul>
+		<script>
+			function orderList(listID) {
+				var theUL = document.getElementById(listID);
+				var theLIs = theUL.getElementsByTagName('li');
+				var newLIs = [];	//	create new array to fill
+				
+				for(i = 0; i < theLIs.length; i++) {
+					newLIs.push(theLIs[i].innerHTML);
+				}
+				
+				newLIs.sort();
+				
+				for(j = 0; j < newLIs.length; j++) {
+					theLIs[j].innerHTML = newLIs[j];
+				}
+			}
+		</script>
+	</body>
+</html>

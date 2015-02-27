@@ -1,0 +1,99 @@
+/* Jeremy Moritz Stylesheet For All Pages */
+
+/*html5 display rule (for older browsers to display these html5 tags as block level elements)*/
+address, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {display:block}
+
+/* setting initial margins and paddings to zero for [almost] all elements (doesn't include form elements) */
+a, abbr, acronym, address, article, aside, b, blockquote, body, br, canvas, caption, dd, details, div, dl, dt, em, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, img, label, legend, li, link, menu, nav, ol, p, pre, section, small, span, strong, summary table, td, th, tr, u, ul {margin:0; padding:0; border:0}
+
+/* STYLE CLASSES (ALL PAGES) */
+.clear {clear:both} .hidden {display:none} .visible {display:block} .left {float:left} .right {float:right} .tiny {font-size:60%} .weak {font-weight:normal; font-size:70%} .big {font-weight:bold; font-size:120%}
+.enlarge {cursor:pointer} .overlarge {display:none; position:absolute} .normal {font-weight:normal}
+
+/* Variables and Mixins (for the LESS compiler) */
+@color1: #fff; /* main text color */
+@color2: #88f;	/*	primary accent color */
+@color3: #ff0;	/* hover links color */
+@widFull: 900px;	/* width of full page */
+.pieBehavior {behavior:url(/includes/PIE.htc)}	/* causes older browsers to have CSS3 */
+.txtShadow {text-shadow:@color2 2px 2px 0}	/* doesn't work in IE (any version) */
+.roundedCorners (@radius: 10px) {
+	border-radius: @radius;
+	-webkit-border-radius: @radius;
+	-moz-border-radius: @radius;
+	.pieBehavior;
+}
+.bgGradient(@bgColor1:#333, @bgColor2:#000) {
+	background: @bgColor2;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(@bgColor1), to(@bgColor2));
+	background: -webkit-linear-gradient(@bgColor1, @bgColor2);
+	background: -moz-linear-gradient(@bgColor1, @bgColor2);
+	background: -ms-linear-gradient(@bgColor1, @bgColor2);
+	background: -o-linear-gradient(@bgColor1, @bgColor2);
+	background: linear-gradient(@bgColor1, @bgColor2);
+	-pie-background: linear-gradient(@bgColor1, @bgColor2);
+	.pieBehavior;
+}
+.wbGrad {background:url('/images/wb_grad.png') repeat-x #000}
+
+	/* BASIC TEMPLATE */
+body {background:#000; color:@color1; font-size:13pt; padding-top:10px; text-align:center; width:@widFull; font-family:arial,sans-serif; margin:auto}
+p {text-align:left; max-width:400px}
+h1 {display:none}
+h2 {.txtShadow; font-size:200%; color:@color1; text-align:left; max-width:550px; margin-top:0; margin-bottom:10px}
+h3 {color:@color2; font-size:130%; text-align:left}
+a {color:@color2}
+a:hover {color:@color3; text-decoration:none}
+ol, ul {text-align:left}
+
+	/* MULTIPLE PAGES */
+#topnav { .wbGrad; font-size:90%; width:100%; border-collapse:collapse; font-weight:bold; height:30px;
+	img {vertical-align:middle; max-height:15px}
+	td {width:25%; border:1px solid @color2}
+	a { text-decoration:none;
+		&:hover {color:@color3}
+	}
+}
+.footer {.wbGrad; width:100%; height:30px; border:0px solid @color2}
+	/* FOOTER BACKGROUND FLIP
+.footer {-moz-transform: scaleY(-1);-o-transform: scaleY(-1);-webkit-transform: scaleY(-1);transform:scaleY(-1);filter:FlipY;-ms-filter: "FlipY"} */
+
+#content {background:url('/images/headshot_bg.png') no-repeat #000; width:100%; border:0px solid @color2; border-top:0}
+.main {min-height:575px; padding-left:20px}
+
+	/* INDEX */
+#index {
+	h2 {font-size:170%}
+	p {font-size:110%}
+	#specialties { font-size:110%; margin-left:20px;
+		td {min-width:60px}
+		.label {text-align:left; padding-right:40px}
+	}
+}
+
+	/* EXAMPLES */
+#examples table img {max-width:195px}
+#examples h3 {color:@color1; max-width:540px; margin-top:10px; margin-bottom:10px}
+
+	/* ABOUT */
+#about {
+	h3 {max-width:540px;margin:10px 0}
+	img.enlarge {.roundedCorners; max-width:150px; border:2px solid @color2; float:left; margin:0 15px 0 0}
+	p {max-width:580px; margin:10px 0}
+	#specialties_para img {max-height:25px; max-width:40px}
+	.overlarge img {.roundedCorners(20px); border:3px solid @color2}
+}
+
+	/* CONTACT */
+#contact {
+	p {font-size:110%; max-width:450px}
+	#form { color:@color1; padding:10px; text-align:left; border:0; width:35%;
+		th {text-align:right; vertical-align:top; font-size:90%; width:100px}
+		td {margin:0px}
+		input {.roundedCorners; width:97%; padding-left:5px}
+		input[type='submit'] {width:50%}
+		textarea {.roundedCorners; font-family:arial,sans-serif; font-size:14px; padding:5px}
+	}
+}
+
+/*** JeremyMoritz.com ***/

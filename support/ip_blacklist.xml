@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<blacklist>
+  <ip>188.143.232.111</ip>
+  <ip>178.126.149.232</ip>
+  <ip>213.238.175.10</ip>
+  <ip>94.242.237</ip><!--// Luxembourg-->
+  <ip>195.190.13</ip><!--// Ukraine-->
+  <!-- <ip>64.136.205.32</ip> Cities Unlimited IP -->
+  <!-- <ip>64.126.57.118</ip> // My house -->
+  <!-- <ip>74.222.222.55</ip> //Solidify -->
+  <!-- <ip>74.91.25.162</ip>  DataShack in KCMO //  i only want to block this ENTIRE I.P. so i don't block all of KCMO -->
+  <ip>31.133.13.209</ip><!--// Czech Republic -->
+  <ip>216.151.137.36</ip>
+  <ip>95.58.33.139</ip>
+  <ip>188.143.232.31</ip>
+  <ip>216.151.137.34</ip>
+  <ip>198.50.158.194</ip><!--  // Canada -->
+  <ip>188.143.232.111</ip>
+  <ip>46.118.157.97</ip>
+</blacklist>

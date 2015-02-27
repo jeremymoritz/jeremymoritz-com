@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<meta charset='utf-8'>
+		<title>JS Test 2</title>
+		<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+	</head>
+	<body>
+		<p><a href='javascript:orderList("orderMe")'>Order this list!</a></p>
+		<ul id='orderMe'>
+			<li>Mickey Mouse</li>
+			<li>Donald Duck</li>
+			<li>Goofy</li>
+			<li>Minnie Mouse</li>
+			<li>Daisy Duck</li>
+			<li>Pluto</li>
+		</ul>
+		<script>
+			//	order the list using jQuery
+			function orderList(listID) {
+				var newLIs = [];	//	new array for the html of the LIs
+				
+				$("#"+listID+" li").each(function() {
+					newLIs.push($(this).html());	//	push html into the new array (so it's sortable)
+				});
+				
+				newLIs.sort();	//	sort new array alphabetically
+				$("#"+listID).html("");	//	empty out the current list
+				
+				for(var i = 0; i < newLIs.length; i++) {
+					$("#"+listID).append("<li>" + newLIs[i] + "</li>");	//	add the list item to the list
+				}
+			}
+		</script>
+	</body>
+</html>

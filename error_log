@@ -1,0 +1,517 @@
+[21-Oct-2013 11:27:49 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 11:27:49 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 11:27:49 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 11:27:49 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 12:44:34 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 12:44:34 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 12:44:34 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 12:44:34 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 13:56:45 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 13:56:45 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 13:56:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 13:56:45 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 13:56:46 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 13:56:46 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 13:56:46 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 13:56:46 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 13:56:47 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 13:56:47 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 13:56:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 13:56:47 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 14:03:33 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 14:03:33 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 14:03:33 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 14:03:33 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 14:04:31 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 14:04:31 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 14:04:31 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 14:04:31 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:08 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:08 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:08 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 14:16:08 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:09 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:09 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 14:16:09 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:11 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:11 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 14:16:11 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:14 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:14 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 14:16:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 14:16:14 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 14:59:55 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 14:59:55 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 14:59:55 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 14:59:55 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 15:04:09 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 15:04:09 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 15:04:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 15:04:09 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 16:35:54 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 16:35:54 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 16:35:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 16:35:54 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 16:36:20 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 16:36:20 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 16:36:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 16:36:20 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 17:34:04 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 17:34:04 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 17:34:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 17:34:04 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 17:43:54 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 17:43:54 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 17:43:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 17:43:54 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:00:29 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:00:29 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:00:29 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:00:29 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:00:31 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:00:31 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:00:31 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:00:31 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:00:32 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:00:32 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:00:32 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:00:32 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:05:19 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:05:19 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:05:19 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:05:19 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:09:59 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:09:59 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:09:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:09:59 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:10 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:10 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:10 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:50:10 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:10 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:10 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:10 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:50:10 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:11 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:11 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:50:11 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:11 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:11 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:50:11 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:12 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:12 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:50:12 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:12 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:12 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:50:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:50:12 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 19:55:42 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 19:55:42 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 19:55:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 19:55:42 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 20:07:19 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 20:07:19 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 20:07:19 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 20:07:19 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 20:08:36 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 20:08:36 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 20:08:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 20:08:36 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 22:05:22 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 22:05:22 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 22:05:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 22:05:22 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 22:06:25 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 22:06:25 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 22:06:25 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 22:06:25 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 22:37:36 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 22:37:36 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 22:37:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 22:37:36 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[21-Oct-2013 22:38:35 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[21-Oct-2013 22:38:35 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[21-Oct-2013 22:38:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Oct-2013 22:38:35 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 00:02:55 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 00:02:55 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 00:02:55 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 00:02:55 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 00:21:29 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 00:21:29 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 00:21:29 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 00:21:29 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 00:21:50 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 00:21:50 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 00:21:50 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 00:21:50 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 01:16:47 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 01:16:47 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 01:16:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 01:16:47 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 01:56:36 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 01:56:36 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 01:56:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 01:56:36 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 01:56:37 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 01:56:37 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 01:56:37 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 01:56:37 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 01:56:38 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 01:56:38 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 01:56:38 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 01:56:38 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 02:35:19 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 02:35:19 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 02:35:19 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 02:35:19 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 02:35:20 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 02:35:20 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 02:35:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 02:35:20 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 02:35:21 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 02:35:21 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 02:35:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 02:35:21 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 03:32:45 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 03:32:45 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 03:32:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 03:32:45 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 04:19:45 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 04:19:45 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 04:19:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 04:19:45 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 04:19:46 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 04:19:46 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 04:19:46 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 04:19:46 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 04:19:47 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 04:19:47 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 04:19:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 04:19:47 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 04:43:00 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 04:43:00 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 04:43:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 04:43:00 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 04:59:32 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 04:59:32 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 04:59:32 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 04:59:32 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 05:04:42 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 05:04:42 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 05:04:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 05:04:42 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 06:03:13 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 06:03:13 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 06:03:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 06:03:13 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 06:03:14 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 06:03:14 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 06:03:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 06:03:14 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 06:03:15 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 06:03:15 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 06:03:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 06:03:15 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 06:08:31 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 06:08:31 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 06:08:31 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 06:08:31 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 06:20:05 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 06:20:05 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 06:20:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 06:20:05 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 06:20:09 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 06:20:09 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 06:20:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 06:20:09 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 06:20:10 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 06:20:10 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 06:20:10 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 06:20:10 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 06:43:18 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 06:43:18 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 06:43:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 06:43:18 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:57 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:57 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:01:57 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:58 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:58 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:01:58 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:01:59 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:01 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:02 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:02 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:02 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:02 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:03 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:03 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:03 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:04 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:04 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:04 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:05 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:05 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:05 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:06 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:06 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:06 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:06 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:07 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:07 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:07 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:08 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:08 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:08 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:08 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:09 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:09 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:09 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:10 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:10 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:10 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:10 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:11 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:11 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:02:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:02:11 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:39 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:39 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:39 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:40 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:40 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:40 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:40 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:40 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:40 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:41 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:41 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:41 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:41 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:41 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:41 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:44 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:44 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:44 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:44 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:44 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:44 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:44 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:44 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:45 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:45 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:45 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:45 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:45 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:45 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:46 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:46 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:12:46 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:12:46 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:24:41 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:24:41 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:24:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:24:41 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:25:36 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:25:36 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:25:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:25:36 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 07:25:50 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 07:25:50 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 07:25:50 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 07:25:50 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 11:23:52 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 11:23:52 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 11:23:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 11:23:52 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 11:28:39 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 11:28:39 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 11:28:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 11:28:39 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 11:37:39 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 11:37:39 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 11:37:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 11:37:39 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 11:37:43 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 11:37:43 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 11:37:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 11:37:43 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 13:11:21 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 13:11:21 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 13:11:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 13:11:21 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 13:22:58 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 13:22:58 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 13:22:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 13:22:58 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 13:23:00 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 13:23:00 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 13:23:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 13:23:00 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 13:29:15 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 13:29:15 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 13:29:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 13:29:15 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 13:29:16 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 13:29:16 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 13:29:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 13:29:16 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[22-Oct-2013 13:29:17 America/Chicago] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[22-Oct-2013 13:29:17 America/Chicago] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[22-Oct-2013 13:29:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Oct-2013 13:29:17 America/Chicago] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[01-Feb-2014 09:36:25 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Feb-2014 09:36:25 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Feb-2014 09:36:25 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Feb-2014 09:36:25 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Feb-2014 09:36:25 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 10:45:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 10:45:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 10:45:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 10:45:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 10:45:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 12:39:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 12:39:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 12:39:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 12:39:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 12:39:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:00:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:00:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:00:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:00:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:00:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:41:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:41:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:41:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:41:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 13:41:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 14:13:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 14:13:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 14:13:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 14:13:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 14:13:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 15:38:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 15:38:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 15:38:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 15:38:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 15:38:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:25:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:41:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:41:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:41:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:41:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 16:41:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:15:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:15:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:15:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:15:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:15:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:45:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:45:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:45:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:45:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 18:45:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:03:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:03:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:03:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:03:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:03:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:34:55 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:34:55 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:34:55 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:34:55 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 19:34:55 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:12:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:12:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:12:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:12:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:12:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:33:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:33:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:33:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:33:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:33:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:40:41 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:42:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:42:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:42:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:42:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 21:42:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 22:37:02 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/timezonedb.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 22:37:02 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 22:37:02 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 22:37:02 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Feb-2014 22:37:02 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0

@@ -1,0 +1,10 @@
+_clients/
+_unused/
+bootstrap/
+includes/bootstrap/
+includes/jasmine/
+node_modules/
+tmp/
+*.zip
+config*
+*_log

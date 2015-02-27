@@ -1,0 +1,146 @@
+#game {
+	margin: 30px auto;
+	border: 1px #AAAAAA solid;
+}
+#game h1 {
+	padding: 10px 0;
+	text-align: center;
+}
+#menu {
+	height: 30px;
+	background-color: #E1E1E1;
+	border-width: 1px 0;
+	border-color: #AAAAAA;
+	border-style: solid;
+}
+#menu .links {
+	float: right;
+	border-left: 1px #AAAAAA solid;
+}
+#menu .links .link {
+	display: block;
+	float: left;
+	height: 22px;
+	padding: 8px 10px 0;
+	color: #000000;
+	text-decoration: none;
+	border-right: 1px #AAAAAA solid;
+}
+#menu .links .link:hover {
+	background-color: #D1D1D1;
+}
+#menu .links .last {
+	border-right: none;
+}
+#scores h2 {
+	font-size: 16px;
+	padding: 5px;
+	background-color: #D1D1D1;
+	border-width: 0 0 1px 0;
+	border-color: #AAAAAA;
+	border-style: solid;
+	text-align: center;
+}
+#scores .score {
+	float: left;
+	width: 199px;
+	border-right: 1px #AAAAAA solid;
+	border-bottom: 1px #AAAAAA solid;
+}
+#scores .last {
+	width: 200px;
+	border-right: none;
+}
+#scores .score .name {
+	padding: 3px;
+	background-color: #EEEEEE;
+	border-bottom: 1px #AAAAAA solid;
+	text-align: center;
+}
+#scores .score .number {
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+#prev-battle,#next-battle {
+	display: block;
+	padding: 5px 0;
+	color: #000000;
+	text-align: center;
+	text-decoration: none;
+	background-color: #E1E1E1;
+	border-color: #AAAAAA;
+	border-style: solid;
+}
+#prev-battle {
+	border-width: 0 0 1px 0;
+}
+#next-battle {
+	border-width: 1px 0 0 0;
+}
+#prev-battle:hover,#next-battle:hover {
+	background-color: #D1D1D1;
+}
+#battles {
+	overflow: hidden;
+}
+#battles .battle .data {
+	padding: 5px;
+	border-bottom: 1px #AAAAAA solid;
+	background-color: #E1E1E1;
+}
+#battles .battle .war {
+	background-color: #FF0000;
+}
+#battles .battle .war_data {
+	float: right;
+}
+#battles .battle .cards {
+	border-bottom: 1px #AAAAAA solid;
+}
+#battles .last .cards {
+	border: none;
+}
+#battles .battle .cards .card {
+	float: left;
+	width: 199px;
+	height: 96px;
+	padding: 10px 0;
+	text-align: center;
+	border-right: 1px #AAAAAA solid;
+}
+#battles .battle .cards .last {
+	width: 200px;
+	border-right: none;
+}
+#battles .battle .cards .winner {
+	background-color: #00FF00;
+}
+#battles .battle .lost {
+	text-align: center;
+	color: #FFFFFF;
+	padding: 5px;
+	background-color: #000088;
+	border-top: 1px #AAAAAA solid;
+}
+#battles .battle .won {
+	text-align: center;
+	color: #FFFFFF;
+	padding: 5px;
+	background-color: #008800;
+	border-top: 1px #AAAAAA solid;
+}
+#stats {
+	padding: 10px;
+}
+#stats .stat {
+	margin-bottom: 10px;
+}
+#stats .stat .label {
+	float: left;
+	width: 100px;
+	font-weight: bold;
+}
+#stats .stat .data {
+	float: left;
+}

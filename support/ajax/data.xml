@@ -1,0 +1,20 @@
+<speakers>
+	<speaker>
+		<name>Barot Baellinghma</name>
+		<shortname>Barot</shortname>
+		<reknown>Royal academy</reknown>
+		<bio>Here is a big bio on Barot</bio>
+	</speaker>
+	<speaker>
+		<name>Jonesy Baellinghma</name>
+		<shortname>Jones</shortname>
+		<reknown>Royal Jones academy</reknown>
+		<bio>Here is a big bio on Jones</bio>
+	</speaker>
+	<speaker>
+		<name>Corey Baellinghma</name>
+		<shortname>Corey</shortname>
+		<reknown>Royal Corey academy</reknown>
+		<bio>Here is a big bio on Corey</bio>
+	</speaker>
+</speakers>

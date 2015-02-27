@@ -1,0 +1,141 @@
+/*	CSS for Kolbe */
+
+.hidden {display: none;}
+body {
+	background: #f8f8ff;
+	font-family: Helvetica, Arial, sans-serif;
+}
+#content {
+	margin: auto;
+	max-width: 610px;
+}
+table {background: #fff;}
+ul li {
+	display: inline-block;
+
+	input[type='number'] {width: 50px;}
+}
+ol li {
+	margin: 20px 0;
+
+	table {
+		width: 500px;
+		text-align: left;
+		border-collapse: collapse;
+		display: inline-block;
+		vertical-align: top;
+
+		thead {
+			background: #ccc;
+			border: 1px solid #008;
+			border-bottom-width: 2px;
+		}
+		td {
+			border: 1px solid #008;
+
+			&:first-of-type {width: 400px;}
+			&:last-of-type {background: #fdd;}
+			&:nth-last-of-type(2) {background: #dfd;}
+			/*
+			&:last-of-type {background: #fdd;}
+			&:nth-last-of-type(2) {background: #dfd;}
+			*/
+			label {display: block;}
+		}
+		th:nth-child(n+2), td:nth-child(n+2) {
+			width: 50px;
+			text-align: center;
+		}
+	}
+}
+
+#results section {
+	text-align: center;
+	
+	.FF {color: #f00;}
+	.FT {color: #00c;}
+	.QS {color: #0c0;}
+	.IM {color: #fe0;}
+	table {
+		margin: auto;
+		border-collapse: collapse;
+		
+		td, th {
+			text-align: center;
+			border: 1px solid #888;
+		}
+		tbody td {
+			vertical-align: bottom;
+			background: #fee;
+			
+			div {border:1px solid #888}
+			&.FF div {background-color: #f00;}
+			&.FT div {background-color: #00c;}
+			&.QS div {background-color: #0c0;}
+			&.IM div {background-color: #fe0;}
+		}
+		thead, tfoot {background: #ccc;}
+	}
+	&.personal table {
+		tbody td {
+			height: 200px;
+			width: 100px;
+		
+			div {
+				width: 100%;
+				background: #00c;
+				box-shadow: 1px 1px 5px #888;
+			}
+		}
+	}
+	&.all_results table {
+		tbody {
+			th {text-align: left;}
+			td {
+				height: 80px;
+				position: relative;
+				width: 80px;
+				
+				div {
+					width: 70px;
+					position: absolute;
+					bottom: 5px;
+					left: 5px;
+				}
+				span {
+					position: relative;
+					z-index: 2;
+					color: #fff;
+					font-family: helvetica;
+					font-weight: bold;
+					font-size: 1.4em;
+					text-shadow: 2px 2px 0 #000, -2px 2px 0 #000, 2px -2px 0 #000, -2px -2px 0 #000;
+				}
+			}
+		}
+	}
+	&.descriptions {
+		p {text-align: left;}
+		dl {
+			text-align: left;
+			margin: auto;
+			display: inline-block;
+			margin: 20px auto;
+			
+			dt {
+				font-weight: bold;
+				text-shadow: 1px 1px 0 #666, -1px -1px 0 #fff;
+			}
+			dd {
+				font-style: italic;
+				margin-left: 15px;
+				
+				ul {
+					font-size: 0.8em;
+					font-style: normal;
+					margin: 5px 0 5px -25px;
+				}
+			}
+		}
+	}
+}

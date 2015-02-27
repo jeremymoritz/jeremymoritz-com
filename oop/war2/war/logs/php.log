@@ -1,0 +1,1 @@
+[26-Jun-2012 19:40:57] PHP Fatal error:  Cannot access private property card::$compare in /var/www/vhosts/lifeboatcreative.com/subdomains/dev/httpdocs/war/war/classes/class.player.php on line 35

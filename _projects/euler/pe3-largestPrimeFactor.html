@@ -1,0 +1,20 @@
+<html>
+<body>
+	<script src="pe3-largestPrimeFactor.js"></script>
+	<script>
+		//var bigNum = 600851475143;	//	ProjectEuler chose this number
+		var bigNum = 52980;	//	whatever number I want to try;
+		var bigNum = 40380;	//	whatever (673)
+	</script>
+	<p>Big Number: <input type='number' id='bigNumber' value='40380'></p>
+	<p>Largest Prime factor (Method 1) is: <input id="answer" type="text" readonly></p>
+	<button onclick="getLargestPrimeFactorMethod1(document.getElementById('bigNumber').value)">Solve it!</button>
+	<!--
+	<p>Largest Prime factor (Method 2) is
+		<script>
+			document.write(getLargestPrimeFactorMethod2(bigNum));
+		</script>
+	</p>
+	-->
+</body>
+</html>

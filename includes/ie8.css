@@ -1,0 +1,9 @@
+/* Style Sheet for IE versions previous to IE9 - NOTE: Windows XP computers can't install IE9 */
+
+/*	Wherever there exist class='ie8', there is something different here in the css for it that only applies to IE versions previous to IE9 */
+
+.ie8 h2 {font-size:170%}
+.ie8 p {font-size:110%}
+.ie8 #specialties {font-size:110%;margin-left:20px}
+.ie8 #specialties td {min-width:60px}
+.ie8 #specialties .label {text-align:left; padding-right:40px}

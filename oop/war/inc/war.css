@@ -1,0 +1,26 @@
+/* War! Stylesheet */
+body {text-align:center}
+img {height:50px}
+strong img {border:3px solid #ff0}
+p {margin:0}
+table {border-collapse:collapse; margin:auto}
+table th {border-bottom:2px solid #000; min-width:50px}
+
+.dupe {border:5px solid #666; background:#bbb}
+
+.cards {border:1px solid #0c0; width:50px; display:block; text-align:center; height:56px}
+.cards img {margin-left:2px}
+.cards.clubs {border-color:#00f; background-color:#ccf}
+.cards.diamonds {border-color:#f00; background-color:#fcc}
+.cards.hearts {border-color:#0c0; background-color:#cfc}
+.cards.spades {border-color:#000; background-color:#ddd}
+
+.pilesize {text-align:center; font-size:70%}
+.tie {border:4px solid #f80; background:#fb8}
+.tie .spoils {text-align:left}
+
+form {margin:auto; background:#ccc; width:220px; padding:20px; text-align:center; border-radius:10px; border:1px solid #000}
+form p {margin:5px}
+form input {border-radius:5px}
+
+/*** War! ***/

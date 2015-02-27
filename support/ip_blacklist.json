@@ -1,0 +1,39 @@
+{
+  "_comments": {
+    "general": "Real comments are not supported in json files",
+    "blacklist": "all the evil ip addresses",
+    "graylist": "other addresses that i may use for testing and such"
+  },
+  "blacklist": [
+    "188.143.232.111",
+    "178.126.149.232",
+    "213.238.175.10",
+    "94.242.237",
+    "195.190.13",
+    "31.133.13.209",
+    "216.151.137.36",
+    "95.58.33.139",
+    "188.143.232.31",
+    "216.151.137.34",
+    "198.50.158.194",
+    "188.143.232.111",
+    "91.121.170.197",
+    "193.203.48.46",
+    "46.118.157.97"
+  ],
+  "graylist": [
+    {
+      "_comment": "Cities Unlimited IP",
+      "ip": "64.136.205.32"
+    }, {
+      "_comment": "My house",
+      "ip": "64.126.57.118"
+    }, {
+      "_comment": "Solidify",
+      "ip": "74.222.222.55"
+    }, {
+      "_comment": "DataShack in KCMO //  i only want to block this ENTIRE I.P. so i don't block all of KCMO",
+      "ip": "74.91.25.162"
+    }
+  ]
+}
