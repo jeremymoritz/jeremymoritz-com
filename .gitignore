@@ -5,6 +5,15 @@ includes/bootstrap/
 includes/jasmine/
 node_modules/
 tmp/
-*.zip
 config*
 *_log
+
+.DS_Store
+.ftpquota
+*.mov
+*.mp3
+*.mp4
+*.m4v
+*.psd
+*.zip
+*.webm
